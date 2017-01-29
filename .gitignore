@@ -1,0 +1,5 @@
+/ivy/
+.project
+.classpath
+.settings
+/WebContent/WEB-INF/lib/
